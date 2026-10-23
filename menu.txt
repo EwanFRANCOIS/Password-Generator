@@ -1,0 +1,12 @@
+================
+==  PWD GEN   ==
+================
+
+Indiquez votre choix :
+
+1- Generez seulement avec des lettres
+2- Generez avec des lettres et des nombres
+3- Ajouter des caracteres speciaux
+4- Quitter
+
+================
